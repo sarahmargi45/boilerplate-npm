@@ -1,8 +1,7 @@
 {
-	{
+ "author": "Sarah Robinson",{
   "name": "fcc-learn-npm-package-json",
-  "author": "Sarah Robinson",
-  "dependencies": 
+   "dependencies": 
   },
   "main": "server.js",
   "scripts": {
